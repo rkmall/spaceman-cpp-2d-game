@@ -1,0 +1,14 @@
+﻿  Bullet.cpp
+  Enemy.cpp
+c:\users\stratysilver\documents\visual studio 2017\projects\spaceman\spaceman\enemy.cpp(15): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Game.cpp
+  Main.cpp
+  Player.cpp
+  Generating code
+  All 523 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Spaceman.vcxproj -> C:\Users\stratysilver\documents\visual studio 2017\Projects\Spaceman\Release\Spaceman.exe
