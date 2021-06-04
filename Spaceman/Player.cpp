@@ -53,8 +53,8 @@ Player::Player(std::vector<Texture>& textures,
 	this->stabilizerForce = 0.3f;
 
 	//Add number of player
-	this->playerNr = Player::players;
-	Player::players++;                                     // Everytime we create a player, player++
+	//this->playerNr = Player::players;
+	//Player::players++;                                     // Everytime we create a player, player++
 
 	std::cout << this->playerNr << "\n";                   // Logs number of players
 	
