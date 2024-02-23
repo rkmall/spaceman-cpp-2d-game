@@ -1,0 +1,8 @@
+# ignore all .dll files
+*.dll
+
+# ignore sfml, release, debug dirs
+sfml/
+Release/
+Debug/
+.vs/
